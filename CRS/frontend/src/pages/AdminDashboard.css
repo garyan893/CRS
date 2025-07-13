@@ -1,0 +1,9 @@
+.dashboard-section {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.card h4 {
+  font-weight: 600;
+  color: #0d47a1;
+}
